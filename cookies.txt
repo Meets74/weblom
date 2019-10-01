@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.cloudflare.com	TRUE	/	FALSE	1999999999	__cfduid	d5bcdbeaeb022438a113da4e14d2cd16a1568532234
+webdesignakron.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+webdesignakron.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_dd6dfa91b75573a203a83e5a8a9ffac6	e1107acdf3336bf07ce0331dfe2cb286%7C%7C1568706443%7C%7C1568702843%7C%7Cf843f21f599cf3dc0b4f9f5de6a10823
+webdesignakron.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	389abe41a8a042d715fbaf97043dc280
+.webdesignakron.com	TRUE	/	FALSE	1999999999	__cfduid	d8a618dbd322e1c6d2661ac6f2c991ddb1568538740
+
